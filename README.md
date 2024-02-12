@@ -24,7 +24,7 @@ To use this landing page, follow these steps:
 3. Explore the various sections and links provided on the landing page.
 
 ## Demo
-!(result.png)
+![output](result.png)
 
 ## Credits
 
