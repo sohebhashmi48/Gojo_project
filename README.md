@@ -1,4 +1,4 @@
-#Jujutsu Kaisen Sukuna Animated Landing Page
+Jujutsu Kaisen Sukuna Animated Landing Page
 Description
 This project is an animated landing page dedicated to Jujutsu Kaisen, featuring an immersive video background and stylish design elements. It provides information about the Jujutsu Kaisen manga series and offers links for further exploration.
 
